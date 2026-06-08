@@ -60,8 +60,5 @@ project-folder/
 
 ## Author
 
-Abhishek
+Abhishek Kumar
 
-## License
-
-This project is open source and available for learning and educational purposes.
