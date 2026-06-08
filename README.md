@@ -67,7 +67,7 @@ Email:kabhishek02030@gmail.com
 
 LinkedIn:www.linkedin.com/in/abhishek-kumar-7937a53b0
 
-GitHub: https:
+GitHub: https:https://github.com/abhishekkumar02030/SCT_WD_4
 
 Live project :https://abhishekkumar02030.github.io/SCT_WD_4/
 
