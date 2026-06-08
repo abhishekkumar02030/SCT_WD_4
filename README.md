@@ -61,4 +61,13 @@ project-folder/
 ## Author
 
 Abhishek Kumar
+Skillcraft Technology internship Task 03- Quiz Game application (SCT_WD_3)
+
+Email:kabhishek02030@gmail.com
+
+LinkedIn:www.linkedin.com/in/abhishek-kumar-7937a53b0
+
+GitHub: https:
+
+Live project :https://abhishekkumar02030.github.io/SCT_WD_4/
 
